@@ -1,7 +1,5 @@
 # PROJETO MVC
 
-*Autor: Fabio Rocha*
-
 *PHP 5.7*
 
 #### controllers - contém todos con controladores
