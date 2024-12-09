@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "db": {
+      "host": "localhost",
+      "username": "root",
+      "password": "123456",
+      "name": "Alexander",
+      "driver": "mysql"
+  },
+  "api": {
+    "token": "123456"
+  },
+  "info": {
+    "title": "Alexander",
+    "phone": "(15) 99240 0452"
+  }
+}
